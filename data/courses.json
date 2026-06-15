@@ -326,19 +326,6 @@
           "instructor": "D. Wood",
           "location": "1330",
           "classNbr": "4454 (1)"
-        },
-        {
-          "id": "hba2-4454-2",
-          "section": "2",
-          "term": "Winter",
-          "days": [
-            "Wed"
-          ],
-          "start": "08:00",
-          "end": "11:00",
-          "instructor": "TBD",
-          "location": "2115",
-          "classNbr": "4454 (2)"
         }
       ]
     },
@@ -596,20 +583,6 @@
         {
           "id": "hba2-4497-1",
           "section": "1",
-          "term": "Fall",
-          "days": [
-            "Tue",
-            "Thu"
-          ],
-          "start": "08:00",
-          "end": "09:20",
-          "instructor": "D. MacDonald",
-          "location": "1330",
-          "classNbr": "4497 (1)"
-        },
-        {
-          "id": "hba2-4497-2",
-          "section": "2",
           "term": "Winter",
           "days": [
             "Tue",
@@ -619,7 +592,7 @@
           "end": "16:05",
           "instructor": "TBD",
           "location": "1130",
-          "classNbr": "4497 (2)"
+          "classNbr": "4497 (1)"
         }
       ]
     },
@@ -944,7 +917,21 @@
           "instructor": "D. Thomas",
           "location": "1120",
           "classNbr": "4554 (1)"
+        },
+        {
+          "id": "hba2-4554-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "8:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "2215",
+          "classNbr": "4554 (2)"
         }
+
       ]
     },
     {
@@ -2167,6 +2154,20 @@
       "courseNumber": "4479",
       "color": "#7c3aed",
       "sections": [
+        {
+          "id": "hba2-4479-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "8:00",
+          "end": "9:20",
+          "instructor": "D. MacDonald",
+          "location": "1130",
+          "classNbr": "4479 (1)"
+        },
         {
           "id": "hba2-4479-2",
           "section": "2",
