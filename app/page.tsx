@@ -51,7 +51,7 @@ export default function Home() {
         onToggleDay={toggleDay}
       />
       <SemesterGrids courses={selectedCourses} conflictingIds={conflictingIds} />
-      <CourseList courses={selectedCourses} onRemove={removeCourse} />
+      <CourseList courses={selectedCourses} onRemove={removeCourse} conflictingIds={conflictingIds} />
     </main>
   );
 }

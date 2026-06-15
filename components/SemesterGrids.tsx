@@ -8,8 +8,8 @@ interface SemesterGridsProps {
 }
 
 export default function SemesterGrids({ courses, conflictingIds }: SemesterGridsProps) {
-  const fall = courses.filter((c) => c.semester === "Fall" || c.semester === "Both");
-  const winter = courses.filter((c) => c.semester === "Winter" || c.semester === "Both");
+  const fall = courses.filter((c) => c.semester === "Fall");
+  const winter = courses.filter((c) => c.semester === "Winter");
 
   return (
     <div className={styles.row}>

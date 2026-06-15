@@ -1,6 +1,6 @@
 export type Day = "Mon" | "Tue" | "Wed" | "Thu" | "Fri";
 
-export type Semester = "Fall" | "Winter" | "Both";
+export type Semester = "Fall" | "Winter";
 
 export const DAYS: Day[] = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 
@@ -23,6 +23,7 @@ export const DAY_SHORT: Record<Day, string> = {
 export interface Section {
   id: string;
   section: string;
+  term: Semester;
   days: Day[];
   start: string;
   end: string;
@@ -37,7 +38,7 @@ export interface CourseGroup {
   id: string;
   name: string;
   courseNumber?: string;
-  semester: Semester;
+  semester?: Semester;
   color?: string;
   sections: Section[];
 }

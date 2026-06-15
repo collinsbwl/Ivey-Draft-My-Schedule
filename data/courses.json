@@ -1,2294 +1,2390 @@
-{ "courses": [
-  {
-    "id": "hba2-4468",
-    "name": "Interpersonal Negotiations",
-    "courseNumber": "4468",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4468-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "A. Frost",
-        "location": "2120",
-        "classNbr": "4468 (1)"
-      },
-      {
-        "id": "hba2-4468-2",
-        "section": "2",
-        "days": [
-          "Mon"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "A. Frost",
-        "location": "2120",
-        "classNbr": "4468 (2)"
-      },
-      {
-        "id": "hba2-4468-3",
-        "section": "3",
-        "days": [
-          "Tue"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "A. Frost",
-        "location": "2120",
-        "classNbr": "4468 (3)"
-      },
-      {
-        "id": "hba2-4468-4",
-        "section": "4",
-        "days": [
-          "Mon"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "K. Nanakdewa",
-        "location": "2115",
-        "classNbr": "4468 (4)"
-      },
-      {
-        "id": "hba2-4468-5",
-        "section": "5",
-        "days": [
-          "Tue"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "K. Nanakdewa",
-        "location": "2115",
-        "classNbr": "4468 (5)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4619",
-    "name": "The Performing Leader",
-    "courseNumber": "4619",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4619-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "J. Seijts",
-        "location": "2125",
-        "classNbr": "4619 (1)"
-      },
-      {
-        "id": "hba2-4619-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "09:20",
-        "instructor": "J. Seijts",
-        "location": "2120",
-        "classNbr": "4619 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4580",
-    "name": "Reputation Management",
-    "courseNumber": "4580",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4580-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "09:20",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4580 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4413",
-    "name": "Derivatives and Financial Markets",
-    "courseNumber": "4413",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4413-1",
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "TBD",
-        "location": "2120",
-        "classNbr": "4413 (1)"
-      },
-      {
-        "id": "hba2-4413-2",
-        "section": "2",
-        "days": [
-          "Tue"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "TBD",
-        "location": "2115",
-        "classNbr": "4413 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4624",
-    "name": "MAC",
-    "courseNumber": "4624",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4624-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "09:20",
-        "instructor": "Y. Luo",
-        "location": "1330",
-        "classNbr": "4624 (1)"
-      },
-      {
-        "id": "hba2-4624-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "Y. Luo",
-        "location": "1330",
-        "classNbr": "4624 (2)"
-      },
-      {
-        "id": "hba2-4624-3",
-        "section": "3",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "Y. Luo",
-        "location": "1330",
-        "classNbr": "4624 (3)"
-      },
-      {
-        "id": "hba2-4624-4",
-        "section": "4",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "Y. Shi",
-        "location": "1130",
-        "classNbr": "4624 (4)"
-      },
-      {
-        "id": "hba2-4624-5",
-        "section": "5",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "Y. Shi",
-        "location": "1130",
-        "classNbr": "4624 (5)"
-      },
-      {
-        "id": "hba2-4624-6",
-        "section": "6",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "Y. Shi",
-        "location": "1330",
-        "classNbr": "4624 (6)"
-      },
-      {
-        "id": "hba2-4624-7",
-        "section": "7",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "S. De La Lande",
-        "location": "1210",
-        "classNbr": "4624 (7)"
-      },
-      {
-        "id": "hba2-4624-8",
-        "section": "8",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "TBD",
-        "location": "1210",
-        "classNbr": "4624 (8)"
-      },
-      {
-        "id": "hba2-4624-9",
-        "section": "9",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "08:00",
-        "end": "09:20",
-        "instructor": "TBD",
-        "location": "130",
-        "classNbr": "4624 (9)"
-      },
-      {
-        "id": "hba2-4624-10",
-        "section": "10",
-        "days": [
-          "Thu"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4624 (10)"
-      },
-      {
-        "id": "hba2-4624-11",
-        "section": "11",
-        "days": [
-          "Tue"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "J. Kelly",
-        "location": "1310",
-        "classNbr": "4624 (11)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4401",
-    "name": "Maker Skills and Sustainability",
-    "courseNumber": "4401",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4401-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "J. Pearce",
-        "location": "Other",
-        "classNbr": "4401 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4454",
-    "name": "Private Equity",
-    "courseNumber": "4454",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4454-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "D. Wood",
-        "location": "1330",
-        "classNbr": "4454 (1)"
-      },
-      {
-        "id": "hba2-4454-2",
-        "section": "2",
-        "days": [
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "TBD",
-        "location": "2115",
-        "classNbr": "4454 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4566",
-    "name": "Managing High Growth Companies",
-    "courseNumber": "4566",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4566-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "D. Lim",
-        "location": "2115",
-        "classNbr": "4566 (1)"
-      },
-      {
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "D. Lim",
-        "location": "2120",
-        "classNbr": "4566 (2)",
-        "id": "hba2-4566-2"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4443",
-    "name": "Value Investing",
-    "courseNumber": "4443",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4443-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "G. Athanaskkos",
-        "location": "2115",
-        "classNbr": "4443 (1)"
-      },
-      {
-        "id": "hba2-4443-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "G. Athanaskkos",
-        "location": "2115",
-        "classNbr": "4443 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4505",
-    "name": "GMM",
-    "courseNumber": "4505",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4505-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "K. Cornelson",
-        "location": "1200",
-        "classNbr": "4505 (1)"
-      },
-      {
-        "id": "hba2-4505-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "K. Cornelson",
-        "location": "1200",
-        "classNbr": "4505 (2)"
-      },
-      {
-        "id": "hba2-4505-3",
-        "section": "3",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "K. Cornelson",
-        "location": "1330",
-        "classNbr": "4505 (3)"
-      },
-      {
-        "id": "hba2-4505-4",
-        "section": "4",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "K. Cornelson",
-        "location": "1330",
-        "classNbr": "4505 (4)"
-      },
-      {
-        "id": "hba2-4505-5",
-        "section": "5",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "T. Frost",
-        "location": "1330",
-        "classNbr": "4505 (5)"
-      },
-      {
-        "id": "hba2-4505-6",
-        "section": "6",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "T. Frost",
-        "location": "1330",
-        "classNbr": "4505 (6)"
-      },
-      {
-        "id": "hba2-4505-7",
-        "section": "7",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "T. Frost",
-        "location": "1330",
-        "classNbr": "4505 (7)"
-      },
-      {
-        "id": "hba2-4505-8",
-        "section": "8",
-        "days": [
-          "Mon"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "C. Lim",
-        "location": "1330",
-        "classNbr": "4505 (8)"
-      },
-      {
-        "id": "hba2-4505-9",
-        "section": "9",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "C. Lim",
-        "location": "1330",
-        "classNbr": "4505 (9)"
-      },
-      {
-        "id": "hba2-4505-10",
-        "section": "10",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "C.Lim",
-        "location": "1330",
-        "classNbr": "4505 (10)"
-      },
-      {
-        "section": "11",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "C.Lim",
-        "location": "1330",
-        "classNbr": "4505 (11)",
-        "id": "hba2-4505-11"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4520",
-    "name": "Revenue Management",
-    "courseNumber": "4520",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4520-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "N. Zhang",
-        "location": "2115",
-        "classNbr": "4520 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4486",
-    "name": "Financial Analytics",
-    "courseNumber": "4486",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4486-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "H. Pun",
-        "location": "2120",
-        "classNbr": "4486 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4539",
-    "name": "C&S Business Strategy and Sustainability",
-    "courseNumber": "4539",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4539-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Tue"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4539 (1)"
-      },
-      {
-        "id": "hba2-4539-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "TBD",
-        "location": "1240",
-        "classNbr": "4539 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4495",
-    "name": "Building Consumer Brands",
-    "courseNumber": "4495",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4495-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "R. Duclos",
-        "location": "2115",
-        "classNbr": "4495 (1)"
-      },
-      {
-        "id": "hba2-4495-2",
-        "section": "2",
-        "days": [
-          "Tue"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "R. Duclos",
-        "location": "2115",
-        "classNbr": "4495 (2)"
-      },
-      {
-        "id": "hba2-4495-3",
-        "section": "3",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "R. Duclos",
-        "location": "2115",
-        "classNbr": "4495 (3)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4610",
-    "name": "Leading Family Firms",
-    "courseNumber": "4610",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4610-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "D. Simpson",
-        "location": "1240",
-        "classNbr": "4610 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4772",
-    "name": "Advanced Strategic Thinking and Decision Making",
-    "courseNumber": "4772",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4772-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "M. Zbaracki",
-        "location": "1200",
-        "classNbr": "4772 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4434",
-    "name": "Management of Service",
-    "courseNumber": "4434",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4434-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "L. Menor",
-        "location": "1220",
-        "classNbr": "4434 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4629",
-    "name": "Sales Foundations",
-    "courseNumber": "4629",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4629-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "E. Janssen",
-        "location": "1240",
-        "classNbr": "4629 (1)"
-      },
-      {
-        "id": "hba2-4629-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "E. Janssen",
-        "location": "1240",
-        "classNbr": "4629 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4417",
-    "name": "Corporate Financial Reporting",
-    "courseNumber": "4417",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4417-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "K. Huo",
-        "location": "1230",
-        "classNbr": "4417 (1)"
-      },
-      {
-        "id": "hba2-4417-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "K. Huo",
-        "location": "1230",
-        "classNbr": "4417 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4567",
-    "name": "Wealth Management",
-    "courseNumber": "4567",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4567-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "S. Patel",
-        "location": "1120",
-        "classNbr": "4567 (1)"
-      },
-      {
-        "id": "hba2-4567-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "S. Patel",
-        "location": "1120",
-        "classNbr": "4567 (2)"
-      },
-      {
-        "id": "hba2-4567-3",
-        "section": "3",
-        "days": [
-          "Tue"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "S. Patel",
-        "location": "1120",
-        "classNbr": "4567 (3)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4480",
-    "name": "Global Strategy",
-    "courseNumber": "4480",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4480-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "E. Chrysostome",
-        "location": "2120",
-        "classNbr": "4480 (1)"
-      },
-      {
-        "id": "hba2-4480-2",
-        "section": "2",
-        "days": [
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "E. Chrysostome",
-        "location": "2120",
-        "classNbr": "4480 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4467",
-    "name": "C&S Decarbonizer's Dilemma",
-    "courseNumber": "4467",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4467-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "M. Raynor",
-        "location": "1330",
-        "classNbr": "4467 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4472",
-    "name": "Fundamentals of AI for Business",
-    "courseNumber": "4472",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4472-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "Y. Rahrovani",
-        "location": "2115",
-        "classNbr": "4472 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4439",
-    "name": "Entrepreneurial Finance",
-    "courseNumber": "4439",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4439-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "D. Simpson",
-        "location": "2120",
-        "classNbr": "4439 (1)"
-      },
-      {
-        "id": "hba2-4439-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "D. Simpson",
-        "location": "1120",
-        "classNbr": "4439 (2)"
-      },
-      {
-        "id": "hba2-4439-3",
-        "section": "3",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "D. Simpson",
-        "location": "1240",
-        "classNbr": "4439 (3)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4461",
-    "name": "Strategic Market Planning",
-    "courseNumber": "4461",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4461-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "K. Kristofferson",
-        "location": "1220",
-        "classNbr": "4461 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4517",
-    "name": "End User Modeling",
-    "courseNumber": "4517",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4517-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "K. MacLean",
-        "location": "1310",
-        "classNbr": "4517 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4479",
-    "name": "Taxation for Managers",
-    "courseNumber": "4479",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "D. MacDonald",
-        "location": "1120",
-        "classNbr": "4479 (2)",
-        "id": "hba2-4479-2"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4497",
-    "name": "Auditing",
-    "courseNumber": "4497",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "08:00",
-        "end": "09:20",
-        "instructor": "D. MacDonald",
-        "location": "1330",
-        "classNbr": "4497 (1)",
-        "id": "hba2-4497-1"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4607",
-    "name": "Microeconomics for Managers",
-    "courseNumber": "4607",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "section": "1",
-        "days": [
-          "Wed",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "TBD",
-        "location": "2120",
-        "classNbr": "4607 (1)",
-        "id": "hba2-4607-1"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4618",
-    "name": "Decision Making and Risk Management",
-    "courseNumber": "4618",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4618-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "L. Austin",
-        "location": "1200",
-        "classNbr": "4618 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4545",
-    "name": "Sports and Entertainment Analytics",
-    "courseNumber": "4545",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4545-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "K. MacLean",
-        "location": "1310",
-        "classNbr": "4545 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4628",
-    "name": "FinTech and Disruption of Banking",
-    "courseNumber": "4628",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4628-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4628 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4614",
-    "name": "Digital Marketing Analytics",
-    "courseNumber": "4614",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4614-1",
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "G. Nagpal",
-        "location": "1230",
-        "classNbr": "4614 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4471",
-    "name": "Navigating Change",
-    "courseNumber": "4471",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4471-1",
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "J. Birkinshaw",
-        "location": "1200",
-        "classNbr": "4471 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4647",
-    "name": "Technology and Humanity",
-    "courseNumber": "4647",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4647-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "J. Dimitropoulos",
-        "location": "1330",
-        "classNbr": "4647 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4773",
-    "name": "Transformational Leadership",
-    "courseNumber": "4773",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4773-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4773 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4595",
-    "name": "Fixed Income Markets, Securities and Analysis",
-    "courseNumber": "4595",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4595-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4595 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4547",
-    "name": "Health Sector Leadership and Innovation",
-    "courseNumber": "4547",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4547-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "D. Barrett",
-        "location": "1320",
-        "classNbr": "4547 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4574",
-    "name": "Mergers and Acquisitions",
-    "courseNumber": "4574",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "J. Tong",
-        "location": "1210",
-        "classNbr": "4574 (1)",
-        "id": "hba2-4574-1"
-      },
-      {
-        "id": "hba2-4574-2",
-        "section": "2",
-        "days": [
-          "Tue"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "B. Gaftka",
-        "location": "1200",
-        "classNbr": "4574 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4662",
-    "name": "Case Writing",
-    "courseNumber": "4662",
-    "semester": "Both",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4662-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "D. Wood",
-        "location": "1330",
-        "classNbr": "4662 (1)"
-      },
-      {
-        "id": "hba2-4662-2",
-        "section": "2",
-        "days": [
-          "Wed"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "D. Wood",
-        "location": "1330",
-        "classNbr": "4662 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4665",
-    "name": "Digital Product Management",
-    "courseNumber": "4665",
-    "semester": "Winter",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4665-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4665 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4404",
-    "name": "C&S Global Business and SDGS",
-    "courseNumber": "4404",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4404-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "S. Li",
-        "location": "1330",
-        "classNbr": "4404 (1)"
-      },
-      {
-        "id": "hba2-4404-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "S. Li",
-        "location": "1320",
-        "classNbr": "4404 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4421",
-    "name": "B2B Marketing and Sales Management",
-    "courseNumber": "4421",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4421-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4421 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4433",
-    "name": "Portfolio Management",
-    "courseNumber": "4433",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4433-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "G. Malikov",
-        "location": "1330",
-        "classNbr": "4433 (1)"
-      },
-      {
-        "id": "hba2-4433-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "TBD",
-        "location": "2115",
-        "classNbr": "4433 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4450",
-    "name": "Business Law",
-    "courseNumber": "4450",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4450-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "R. Norris",
-        "location": "2115",
-        "classNbr": "4450 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4462",
-    "name": "Doing Business in North America",
-    "courseNumber": "4462",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4462-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "R. Mostafa",
-        "location": "1310",
-        "classNbr": "4462 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4464",
-    "name": "Supply Chain Management",
-    "courseNumber": "4464",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4464-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "G. Raz",
-        "location": "2120",
-        "classNbr": "4464 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4469",
-    "name": "Competing with Analyics",
-    "courseNumber": "4469",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4469-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "J. Naoum-Sawaya",
-        "location": "2125",
-        "classNbr": "4469 (1)"
-      },
-      {
-        "id": "hba2-4469-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "J. Naoum-Sawaya",
-        "location": "2125",
-        "classNbr": "4469 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4477",
-    "name": "Corporate Financial Reporting II",
-    "courseNumber": "4477",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4477-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4477 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4482",
-    "name": "Competing to Lead",
-    "courseNumber": "4482",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4482-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "Frost/Seijts",
-        "location": "TBD",
-        "classNbr": "4482 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4535",
-    "name": "Integrated Marketing",
-    "courseNumber": "4535",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4535-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "M. Taylor",
-        "location": "1310",
-        "classNbr": "4535 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4554",
-    "name": "Private Equity",
-    "courseNumber": "4554",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4554-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "D. Thomas",
-        "location": "1120",
-        "classNbr": "4554 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4558",
-    "name": "New Venture Creation",
-    "courseNumber": "4558",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4558-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4558 (1)"
-      },
-      {
-        "id": "hba2-4558-2",
-        "section": "2",
-        "days": [
-          "Tue"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4558 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4564",
-    "name": "Design Drive Innovation",
-    "courseNumber": "4564",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4564-2",
-        "section": "2",
-        "days": [
-          "Tue"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "TBD",
-        "location": "1330",
-        "classNbr": "4564 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4572",
-    "name": "Online Retailing",
-    "courseNumber": "4572",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4572-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "J. Boichuk",
-        "location": "1310",
-        "classNbr": "4572 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4573",
-    "name": "Measurable Marketing",
-    "courseNumber": "4573",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4573-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "J. Boichuk",
-        "location": "2115",
-        "classNbr": "4573 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4588",
-    "name": "C&S Sustainable Finance",
-    "courseNumber": "4588",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4588-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "TBD",
-        "location": "2115",
-        "classNbr": "4588 (1)"
-      },
-      {
-        "id": "hba2-4588-2",
-        "section": "2",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "TBD",
-        "location": "1120",
-        "classNbr": "4588 (2)"
-      },
-      {
-        "id": "hba2-4588-3",
-        "section": "3",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "D. Arjalies",
-        "location": "1120",
-        "classNbr": "4588 (3)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4590",
-    "name": "Introduction to Data Science",
-    "courseNumber": "4590",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4590-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "11:20",
-        "end": "12:40",
-        "instructor": "J. Naoum-Sawaya",
-        "location": "2125",
-        "classNbr": "4590 (1)"
-      },
-      {
-        "id": "hba2-4590-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "J. Naoum-Sawaya",
-        "location": "2125",
-        "classNbr": "4590 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4596",
-    "name": "Navigating Power Dynamics",
-    "courseNumber": "4596",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4596-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "09:40",
-        "end": "11:00",
-        "instructor": "K. Pettit",
-        "location": "2125",
-        "classNbr": "4596 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4600",
-    "name": "Database Management",
-    "courseNumber": "4600",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4600-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "L. Osinde",
-        "location": "2120",
-        "classNbr": "4600 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4608",
-    "name": "C&S Managing Energy",
-    "courseNumber": "4608",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4608-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4608 (1)"
-      },
-      {
-        "id": "hba2-4608-2",
-        "section": "2",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "TBD",
-        "location": "1320",
-        "classNbr": "4608 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4611",
-    "name": "Hustle and Grit",
-    "courseNumber": "4611",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4611-1",
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "16:05",
-        "instructor": "E. Janssen",
-        "location": "1140",
-        "classNbr": "4611 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4613",
-    "name": "Fundamentals of Commercial Real Estate",
-    "courseNumber": "4613",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4613-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "C. Brawn",
-        "location": "1230",
-        "classNbr": "4613 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4620",
-    "name": "Business Impact Assessment",
-    "courseNumber": "4620",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4620-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "D. Arjalies",
-        "location": "1120",
-        "classNbr": "4620 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4621",
-    "name": "Managing in the Creative Economy",
-    "courseNumber": "4621",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4621-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "Y. Rahrovani",
-        "location": "2115",
-        "classNbr": "4621 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4622",
-    "name": "Corporate Strategy",
-    "courseNumber": "4622",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4622-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "TBD",
-        "location": "1120",
-        "classNbr": "4622 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4623",
-    "name": "International Collaborative Arrangements",
-    "courseNumber": "4623",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4623-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "V. Hasse",
-        "location": "1210",
-        "classNbr": "4623 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4626",
-    "name": "Special Topics CCM",
-    "courseNumber": "4626",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4626-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "E. Chrysostome",
-        "location": "2115",
-        "classNbr": "4626 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4654",
-    "name": "Behavioural Economics",
-    "courseNumber": "4654",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4654-1",
-        "section": "1",
-        "days": [
-          "Mon",
-          "Wed"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "J. Foster",
-        "location": "1130",
-        "classNbr": "4654 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4658",
-    "name": "Competing in Emerging Markets",
-    "courseNumber": "4658",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4658-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "E. Chrysostome",
-        "location": "2125",
-        "classNbr": "4658 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4664",
-    "name": "The Art of Social Entrepreneurship",
-    "courseNumber": "4664",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4664-1",
-        "section": "1",
-        "days": [
-          "Mon"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "L. Steinfeld",
-        "location": "1210",
-        "classNbr": "4664 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4666",
-    "name": "System Thinking Strategies",
-    "courseNumber": "4666",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4666-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "13:10",
-        "end": "14:30",
-        "instructor": "L. Liboni",
-        "location": "2125",
-        "classNbr": "4666 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4667",
-    "name": "Advanced Financial Management",
-    "courseNumber": "4667",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4667-1",
-        "section": "1",
-        "days": [
-          "Wed"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "S. Venkatesan",
-        "location": "2125",
-        "classNbr": "4667 (1)"
-      },
-      {
-        "id": "hba2-4667-2",
-        "section": "2",
-        "days": [
-          "Wed"
-        ],
-        "start": "14:45",
-        "end": "17:40",
-        "instructor": "S. Venkatesan",
-        "location": "1210",
-        "classNbr": "4667 (2)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4668",
-    "name": "Doing Business in Africa",
-    "courseNumber": "4668",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4668-1",
-        "section": "1",
-        "days": [
-          "Thu"
-        ],
-        "start": "08:00",
-        "end": "11:00",
-        "instructor": "E. Chrysostome",
-        "location": "2120",
-        "classNbr": "4668 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4675",
-    "name": "Programming for Business Applications",
-    "courseNumber": "4675",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4675-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "16:20",
-        "end": "17:40",
-        "instructor": "Y. Zou",
-        "location": "1200",
-        "classNbr": "4675 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4677",
-    "name": "Purpose-Driven Leadership",
-    "courseNumber": "4677",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4677-1",
-        "section": "1",
-        "days": [
-          "Tue"
-        ],
-        "start": "18:00",
-        "end": "21:00",
-        "instructor": "O. Branzei",
-        "location": "1310",
-        "classNbr": "4677 (1)"
-      }
-    ]
-  },
-  {
-    "id": "hba2-4771",
-    "name": "Digital Strategy and Policy",
-    "courseNumber": "4771",
-    "semester": "Fall",
-    "color": "#7c3aed",
-    "sections": [
-      {
-        "id": "hba2-4771-1",
-        "section": "1",
-        "days": [
-          "Tue",
-          "Thu"
-        ],
-        "start": "14:45",
-        "end": "16:05",
-        "instructor": "E. Bohlin",
-        "location": "1240",
-        "classNbr": "4771 (1)"
-      }
-    ]
-  }
-]}
+{
+  "courses": [
+    {
+      "id": "hba2-4468",
+      "name": "Interpersonal Negotiations",
+      "courseNumber": "4468",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4468-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "A. Frost",
+          "location": "2120",
+          "classNbr": "4468 (1)"
+        },
+        {
+          "id": "hba2-4468-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "A. Frost",
+          "location": "2120",
+          "classNbr": "4468 (2)"
+        },
+        {
+          "id": "hba2-4468-3",
+          "section": "3",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "A. Frost",
+          "location": "2120",
+          "classNbr": "4468 (3)"
+        },
+        {
+          "id": "hba2-4468-4",
+          "section": "4",
+          "term": "Winter",
+          "days": [
+            "Mon"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "K. Nanakdewa",
+          "location": "2115",
+          "classNbr": "4468 (4)"
+        },
+        {
+          "id": "hba2-4468-5",
+          "section": "5",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "K. Nanakdewa",
+          "location": "2115",
+          "classNbr": "4468 (5)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4619",
+      "name": "The Performing Leader",
+      "courseNumber": "4619",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4619-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "J. Seijts",
+          "location": "2125",
+          "classNbr": "4619 (1)"
+        },
+        {
+          "id": "hba2-4619-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "09:20",
+          "instructor": "J. Seijts",
+          "location": "2120",
+          "classNbr": "4619 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4413",
+      "name": "Derivatives and Financial Markets",
+      "courseNumber": "4413",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4413-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Thu"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "2120",
+          "classNbr": "4413 (1)"
+        },
+        {
+          "id": "hba2-4413-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "2120",
+          "classNbr": "4413 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4624",
+      "name": "MAC",
+      "courseNumber": "4624",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4624-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "09:20",
+          "instructor": "Y. Luo",
+          "location": "1330",
+          "classNbr": "4624 (1)"
+        },
+        {
+          "id": "hba2-4624-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "Y. Luo",
+          "location": "1330",
+          "classNbr": "4624 (2)"
+        },
+        {
+          "id": "hba2-4624-3",
+          "section": "3",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "Y. Luo",
+          "location": "1330",
+          "classNbr": "4624 (3)"
+        },
+        {
+          "id": "hba2-4624-4",
+          "section": "4",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "Y. Shi",
+          "location": "1130",
+          "classNbr": "4624 (4)"
+        },
+        {
+          "id": "hba2-4624-5",
+          "section": "5",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "Y. Shi",
+          "location": "1130",
+          "classNbr": "4624 (5)"
+        },
+        {
+          "id": "hba2-4624-6",
+          "section": "6",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "Y. Shi",
+          "location": "1330",
+          "classNbr": "4624 (6)"
+        },
+        {
+          "id": "hba2-4624-7",
+          "section": "7",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "S. De La Lande",
+          "location": "1210",
+          "classNbr": "4624 (7)"
+        },
+        {
+          "id": "hba2-4624-8",
+          "section": "8",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "TBD",
+          "location": "1210",
+          "classNbr": "4624 (8)"
+        },
+        {
+          "id": "hba2-4624-9",
+          "section": "9",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "08:00",
+          "end": "09:20",
+          "instructor": "J. Kelly",
+          "location": "1330",
+          "classNbr": "4624 (9)"
+        },
+        {
+          "id": "hba2-4624-10",
+          "section": "10",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "J. Kelly",
+          "location": "1330",
+          "classNbr": "4624 (10)"
+        },
+        {
+          "id": "hba2-4624-11",
+          "section": "11",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "J. Kelly",
+          "location": "1310",
+          "classNbr": "4624 (11)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4454",
+      "name": "Private Equity",
+      "courseNumber": "4454",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4454-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "D. Wood",
+          "location": "1330",
+          "classNbr": "4454 (1)"
+        },
+        {
+          "id": "hba2-4454-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "2115",
+          "classNbr": "4454 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4505",
+      "name": "GMM",
+      "courseNumber": "4505",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4505-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "K. Cornelson",
+          "location": "1200",
+          "classNbr": "4505 (1)"
+        },
+        {
+          "id": "hba2-4505-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "K. Cornelson",
+          "location": "1200",
+          "classNbr": "4505 (2)"
+        },
+        {
+          "id": "hba2-4505-3",
+          "section": "3",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "K. Cornelson",
+          "location": "1330",
+          "classNbr": "4505 (3)"
+        },
+        {
+          "id": "hba2-4505-4",
+          "section": "4",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "K. Cornelson",
+          "location": "1330",
+          "classNbr": "4505 (4)"
+        },
+        {
+          "id": "hba2-4505-5",
+          "section": "5",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "T. Frost",
+          "location": "1330",
+          "classNbr": "4505 (5)"
+        },
+        {
+          "id": "hba2-4505-6",
+          "section": "6",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "T. Frost",
+          "location": "1330",
+          "classNbr": "4505 (6)"
+        },
+        {
+          "id": "hba2-4505-7",
+          "section": "7",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "T. Frost",
+          "location": "1330",
+          "classNbr": "4505 (7)"
+        },
+        {
+          "id": "hba2-4505-8",
+          "section": "8",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "C. Lim",
+          "location": "1330",
+          "classNbr": "4505 (8)"
+        },
+        {
+          "id": "hba2-4505-9",
+          "section": "9",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "C. Lim",
+          "location": "1330",
+          "classNbr": "4505 (9)"
+        },
+        {
+          "id": "hba2-4505-10",
+          "section": "10",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "C. Lim",
+          "location": "1330",
+          "classNbr": "4505 (10)"
+        },
+        {
+          "id": "hba2-4505-11",
+          "section": "11",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "C. Lim",
+          "location": "1330",
+          "classNbr": "4505 (11)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4574",
+      "name": "Mergers and Acquisitions",
+      "courseNumber": "4574",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4574-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "J. Tong",
+          "location": "1210",
+          "classNbr": "4574 (1)"
+        },
+        {
+          "id": "hba2-4574-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "B. Gaftka",
+          "location": "1200",
+          "classNbr": "4574 (2)"
+        },
+        {
+          "id": "hba2-4574-3",
+          "section": "3",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1310",
+          "classNbr": "4574 (3)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4417",
+      "name": "Corporate Financial Reporting",
+      "courseNumber": "4417",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4417-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "K. Huo",
+          "location": "1230",
+          "classNbr": "4417 (1)"
+        },
+        {
+          "id": "hba2-4417-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "K. Huo",
+          "location": "1230",
+          "classNbr": "4417 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4497",
+      "name": "Auditing",
+      "courseNumber": "4497",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4497-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "08:00",
+          "end": "09:20",
+          "instructor": "D. MacDonald",
+          "location": "1330",
+          "classNbr": "4497 (1)"
+        },
+        {
+          "id": "hba2-4497-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "TBD",
+          "location": "1130",
+          "classNbr": "4497 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4662",
+      "name": "Case Writing",
+      "courseNumber": "4662",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4662-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "D. Wood",
+          "location": "1330",
+          "classNbr": "4662 (1)"
+        },
+        {
+          "id": "hba2-4662-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "D. Wood",
+          "location": "1330",
+          "classNbr": "4662 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4404",
+      "name": "C&S Global Business and SDGS",
+      "courseNumber": "4404",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4404-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "S. Li",
+          "location": "1330",
+          "classNbr": "4404 (1)"
+        },
+        {
+          "id": "hba2-4404-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "S. Li",
+          "location": "1320",
+          "classNbr": "4404 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4421",
+      "name": "B2B Marketing and Sales Management",
+      "courseNumber": "4421",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4421-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4421 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4433",
+      "name": "Portfolio Management",
+      "courseNumber": "4433",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4433-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "G. Malikov",
+          "location": "1330",
+          "classNbr": "4433 (1)"
+        },
+        {
+          "id": "hba2-4433-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "2115",
+          "classNbr": "4433 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4450",
+      "name": "Business Law",
+      "courseNumber": "4450",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4450-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "R. Norris",
+          "location": "2115",
+          "classNbr": "4450 (1)"
+        },
+        {
+          "id": "hba2-4450-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Fri"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "R. Norris",
+          "location": "2115",
+          "classNbr": "4450 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4462",
+      "name": "Doing Business in North America",
+      "courseNumber": "4462",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4462-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "R. Mostafa",
+          "location": "1310",
+          "classNbr": "4462 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4464",
+      "name": "Supply Chain Management",
+      "courseNumber": "4464",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4464-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "G. Raz",
+          "location": "2120",
+          "classNbr": "4464 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4469",
+      "name": "Competing with Analytics",
+      "courseNumber": "4469",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4469-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "J. Naoum-Sawaya",
+          "location": "2125",
+          "classNbr": "4469 (1)"
+        },
+        {
+          "id": "hba2-4469-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "J. Naoum-Sawaya",
+          "location": "2125",
+          "classNbr": "4469 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4477",
+      "name": "Corporate Financial Reporting II",
+      "courseNumber": "4477",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4477-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4477 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4482",
+      "name": "Competing to Lead",
+      "courseNumber": "4482",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4482-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "Frost/Seijts",
+          "location": "TBD",
+          "classNbr": "4482 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4535",
+      "name": "Integrated Marketing",
+      "courseNumber": "4535",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4535-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "M. Taylor",
+          "location": "1310",
+          "classNbr": "4535 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4554",
+      "name": "Private Equity",
+      "courseNumber": "4554",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4554-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "D. Thomas",
+          "location": "1120",
+          "classNbr": "4554 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4558",
+      "name": "New Venture Creation",
+      "courseNumber": "4558",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4558-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4558 (1)"
+        },
+        {
+          "id": "hba2-4558-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4558 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4564",
+      "name": "Design Drive Innovation",
+      "courseNumber": "4564",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4564-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4564 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4572",
+      "name": "Online Retailing",
+      "courseNumber": "4572",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4572-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "J. Boichuk",
+          "location": "1310",
+          "classNbr": "4572 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4573",
+      "name": "Measurable Marketing",
+      "courseNumber": "4573",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4573-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "J. Boichuk",
+          "location": "2115",
+          "classNbr": "4573 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4588",
+      "name": "C&S Sustainable Finance",
+      "courseNumber": "4588",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4588-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "TBD",
+          "location": "2115",
+          "classNbr": "4588 (1)"
+        },
+        {
+          "id": "hba2-4588-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "1120",
+          "classNbr": "4588 (2)"
+        },
+        {
+          "id": "hba2-4588-3",
+          "section": "3",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "D. Arjalies",
+          "location": "1120",
+          "classNbr": "4588 (3)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4590",
+      "name": "Introduction to Data Science",
+      "courseNumber": "4590",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4590-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "J. Naoum-Sawaya",
+          "location": "2125",
+          "classNbr": "4590 (1)"
+        },
+        {
+          "id": "hba2-4590-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "J. Naoum-Sawaya",
+          "location": "2125",
+          "classNbr": "4590 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4596",
+      "name": "Navigating Power Dynamics",
+      "courseNumber": "4596",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4596-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "K. Pettit",
+          "location": "2125",
+          "classNbr": "4596 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4600",
+      "name": "Database Management",
+      "courseNumber": "4600",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4600-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "L. Osinde",
+          "location": "2120",
+          "classNbr": "4600 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4608",
+      "name": "C&S Managing Energy",
+      "courseNumber": "4608",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4608-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4608 (1)"
+        },
+        {
+          "id": "hba2-4608-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4608 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4611",
+      "name": "Hustle and Grit",
+      "courseNumber": "4611",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4611-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "E. Janssen",
+          "location": "1140",
+          "classNbr": "4611 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4613",
+      "name": "Fundamentals of Commercial Real Estate",
+      "courseNumber": "4613",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4613-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "C. Brawn",
+          "location": "1230",
+          "classNbr": "4613 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4620",
+      "name": "Business Impact Assessment",
+      "courseNumber": "4620",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4620-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "D. Arjalies",
+          "location": "1120",
+          "classNbr": "4620 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4621",
+      "name": "Managing in the Creative Economy",
+      "courseNumber": "4621",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4621-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "Y. Rahrovani",
+          "location": "2115",
+          "classNbr": "4621 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4622",
+      "name": "Corporate Strategy",
+      "courseNumber": "4622",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4622-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "TBD",
+          "location": "1120",
+          "classNbr": "4622 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4623",
+      "name": "International Collaborative Arrangements",
+      "courseNumber": "4623",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4623-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "V. Hasse",
+          "location": "1210",
+          "classNbr": "4623 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4626",
+      "name": "Special Topics CCM",
+      "courseNumber": "4626",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4626-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "E. Chrysostome",
+          "location": "2115",
+          "classNbr": "4626 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4654",
+      "name": "Behavioural Economics",
+      "courseNumber": "4654",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4654-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "J. Foster",
+          "location": "1130",
+          "classNbr": "4654 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4658",
+      "name": "Competing in Emerging Markets",
+      "courseNumber": "4658",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4658-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "E. Chrysostome",
+          "location": "2125",
+          "classNbr": "4658 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4664",
+      "name": "The Art of Social Entrepreneurship",
+      "courseNumber": "4664",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4664-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "L. Steinfeld",
+          "location": "1210",
+          "classNbr": "4664 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4666",
+      "name": "System Thinking Strategies",
+      "courseNumber": "4666",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4666-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "L. Liboni",
+          "location": "2125",
+          "classNbr": "4666 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4667",
+      "name": "Advanced Financial Management",
+      "courseNumber": "4667",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4667-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "S. Venkatesan",
+          "location": "2125",
+          "classNbr": "4667 (1)"
+        },
+        {
+          "id": "hba2-4667-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "S. Venkatesan",
+          "location": "1210",
+          "classNbr": "4667 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4668",
+      "name": "Doing Business in Africa",
+      "courseNumber": "4668",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4668-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Thu"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "E. Chrysostome",
+          "location": "2120",
+          "classNbr": "4668 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4675",
+      "name": "Programming for Business Applications",
+      "courseNumber": "4675",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4675-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "Y. Zou",
+          "location": "1200",
+          "classNbr": "4675 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4677",
+      "name": "Purpose-Driven Leadership",
+      "courseNumber": "4677",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4677-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "O. Branzei",
+          "location": "1310",
+          "classNbr": "4677 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4771",
+      "name": "Digital Strategy and Policy",
+      "courseNumber": "4771",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4771-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "E. Bohlin",
+          "location": "1240",
+          "classNbr": "4771 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4439",
+      "name": "Entrepreneurial Finance",
+      "courseNumber": "4439",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4439-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "D. Simpson",
+          "location": "2120",
+          "classNbr": "4439 (1)"
+        },
+        {
+          "id": "hba2-4439-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "D. Simpson",
+          "location": "1120",
+          "classNbr": "4439 (2)"
+        },
+        {
+          "id": "hba2-4439-3",
+          "section": "3",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "D. Simpson",
+          "location": "1240",
+          "classNbr": "4439 (3)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4580",
+      "name": "Reputation Management",
+      "courseNumber": "4580",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4580-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "08:00",
+          "end": "09:20",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4580 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4401",
+      "name": "Maker Skills and Sustainability",
+      "courseNumber": "4401",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4401-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "J. Pearce",
+          "location": "Other",
+          "classNbr": "4401 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4566",
+      "name": "Managing High Growth Companies",
+      "courseNumber": "4566",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4566-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "09:40",
+          "end": "11:00",
+          "instructor": "D. Lim",
+          "location": "2120",
+          "classNbr": "4566 (1)"
+        },
+        {
+          "id": "hba2-4566-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "D. Lim",
+          "location": "2120",
+          "classNbr": "4566 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4443",
+      "name": "Value Investing",
+      "courseNumber": "4443",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4443-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "G. Athanasskos",
+          "location": "2115",
+          "classNbr": "4443 (1)"
+        },
+        {
+          "id": "hba2-4443-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "G. Athanasskos",
+          "location": "2115",
+          "classNbr": "4443 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4520",
+      "name": "Revenue Management",
+      "courseNumber": "4520",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4520-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "N. Zhang",
+          "location": "2115",
+          "classNbr": "4520 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4486",
+      "name": "Financial Analytics",
+      "courseNumber": "4486",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4486-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "H. Pun",
+          "location": "2120",
+          "classNbr": "4486 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4539",
+      "name": "C&S Business Strategy and Sustainability",
+      "courseNumber": "4539",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4539-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4539 (1)"
+        },
+        {
+          "id": "hba2-4539-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4539 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4495",
+      "name": "Building Consumer Brands",
+      "courseNumber": "4495",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4495-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "R. Duclos",
+          "location": "2115",
+          "classNbr": "4495 (1)"
+        },
+        {
+          "id": "hba2-4495-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "R. Duclos",
+          "location": "2115",
+          "classNbr": "4495 (2)"
+        },
+        {
+          "id": "hba2-4495-3",
+          "section": "3",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "R. Duclos",
+          "location": "2115",
+          "classNbr": "4495 (3)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4610",
+      "name": "Leading Family Firms",
+      "courseNumber": "4610",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4610-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "D. Simpson",
+          "location": "1240",
+          "classNbr": "4610 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4772",
+      "name": "Advanced Strategic Thinking and Decision Making",
+      "courseNumber": "4772",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4772-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "M. Zbaracki",
+          "location": "1200",
+          "classNbr": "4772 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4434",
+      "name": "Management of Service",
+      "courseNumber": "4434",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4434-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "L. Menor",
+          "location": "1220",
+          "classNbr": "4434 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4629",
+      "name": "Sales Foundations",
+      "courseNumber": "4629",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4629-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "E. Janssen",
+          "location": "1240",
+          "classNbr": "4629 (1)"
+        },
+        {
+          "id": "hba2-4629-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "E. Janssen",
+          "location": "1240",
+          "classNbr": "4629 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4567",
+      "name": "Wealth Management",
+      "courseNumber": "4567",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4567-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "S. Patel",
+          "location": "1120",
+          "classNbr": "4567 (1)"
+        },
+        {
+          "id": "hba2-4567-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "S. Patel",
+          "location": "1120",
+          "classNbr": "4567 (2)"
+        },
+        {
+          "id": "hba2-4567-3",
+          "section": "3",
+          "term": "Winter",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "S. Patel",
+          "location": "1120",
+          "classNbr": "4567 (3)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4480",
+      "name": "Global Strategy",
+      "courseNumber": "4480",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4480-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "E. Chrysostome",
+          "location": "2120",
+          "classNbr": "4480 (1)"
+        },
+        {
+          "id": "hba2-4480-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "E. Chrysostome",
+          "location": "2120",
+          "classNbr": "4480 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4467",
+      "name": "C&S Decarbonizer's Dilemma",
+      "courseNumber": "4467",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4467-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "M. Raynor",
+          "location": "1330",
+          "classNbr": "4467 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4472",
+      "name": "Fundamentals of AI for Business",
+      "courseNumber": "4472",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4472-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "Y. Rahrovani",
+          "location": "2115",
+          "classNbr": "4472 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4461",
+      "name": "Strategic Market Planning",
+      "courseNumber": "4461",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4461-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "K. Kristofferson",
+          "location": "1220",
+          "classNbr": "4461 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4517",
+      "name": "End User Modeling",
+      "courseNumber": "4517",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4517-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "K. MacLean",
+          "location": "1310",
+          "classNbr": "4517 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4479",
+      "name": "Taxation for Managers",
+      "courseNumber": "4479",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4479-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "D. MacDonald",
+          "location": "1120",
+          "classNbr": "4479 (2)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4607",
+      "name": "Microeconomics for Managers",
+      "courseNumber": "4607",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4607-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "B. Schaufele",
+          "location": "2120",
+          "classNbr": "4607 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4618",
+      "name": "Decision Making and Risk Management",
+      "courseNumber": "4618",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4618-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "L. Austin",
+          "location": "1200",
+          "classNbr": "4618 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4545",
+      "name": "Sports and Entertainment Analytics",
+      "courseNumber": "4545",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4545-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "K. MacLean",
+          "location": "1310",
+          "classNbr": "4545 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4628",
+      "name": "FinTech and Disruption of Banking",
+      "courseNumber": "4628",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4628-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4628 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4614",
+      "name": "Digital Marketing Analytics",
+      "courseNumber": "4614",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4614-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "G. Nagpal",
+          "location": "1230",
+          "classNbr": "4614 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4471",
+      "name": "Navigating Change",
+      "courseNumber": "4471",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4471-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Thu"
+          ],
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "J. Birkinshaw",
+          "location": "1200",
+          "classNbr": "4471 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4647",
+      "name": "Technology and Humanity",
+      "courseNumber": "4647",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4647-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "J. Dimitropoulos",
+          "location": "1330",
+          "classNbr": "4647 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4773",
+      "name": "Transformational Leadership",
+      "courseNumber": "4773",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4773-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4773 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4595",
+      "name": "Fixed Income Markets, Securities and Analysis",
+      "courseNumber": "4595",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4595-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1330",
+          "classNbr": "4595 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4547",
+      "name": "Health Sector Leadership and Innovation",
+      "courseNumber": "4547",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4547-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Tue"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "D. Barrett",
+          "location": "1320",
+          "classNbr": "4547 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4665",
+      "name": "Digital Product Management",
+      "courseNumber": "4665",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4665-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Wed"
+          ],
+          "start": "18:00",
+          "end": "21:00",
+          "instructor": "TBD",
+          "location": "1320",
+          "classNbr": "4665 (1)"
+        }
+      ]
+    }
+  ]
+}

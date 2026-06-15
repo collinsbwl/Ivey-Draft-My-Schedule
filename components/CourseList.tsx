@@ -7,13 +7,14 @@ import styles from "./CourseList.module.css";
 interface CourseListProps {
   courses: Course[];
   onRemove: (id: string) => void;
+  conflictingIds: Set<string>;
 }
 
 function formatDays(days: Day[]): string {
   return days.map((d) => DAY_SHORT[d]).join(" ");
 }
 
-export default function CourseList({ courses, onRemove }: CourseListProps) {
+export default function CourseList({ courses, onRemove, conflictingIds }: CourseListProps) {
   if (courses.length === 0) return null;
 
   return (
@@ -28,6 +29,7 @@ export default function CourseList({ courses, onRemove }: CourseListProps) {
             <th>Instructor</th>
             <th>Days/Times</th>
             <th className={styles.removeCol}>Remove</th>
+            <th className={styles.warnCol}></th>
           </tr>
         </thead>
         <tbody>
@@ -60,6 +62,11 @@ export default function CourseList({ courses, onRemove }: CourseListProps) {
                 >
                   ✕
                 </button>
+              </td>
+              <td className={styles.warnCol}>
+                {conflictingIds.has(course.id) && (
+                  <span className={styles.warnIcon} title="Schedule conflict">⚠️</span>
+                )}
               </td>
             </tr>
           ))}

@@ -38,8 +38,19 @@
 }
 
 .removeCol {
-  width: 60px;
+  width: 48px;
   text-align: center !important;
+}
+
+.warnCol {
+  width: 32px;
+  text-align: left;
+  padding-left: 4px !important;
+}
+
+.warnIcon {
+  font-size: 16px;
+  line-height: 1;
 }
 
 .tag {

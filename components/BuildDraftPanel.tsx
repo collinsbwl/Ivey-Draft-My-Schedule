@@ -57,7 +57,7 @@ export default function BuildDraftPanel({
       courseGroupId: pendingGroup.id,
       name: pendingGroup.name,
       courseNumber: pendingGroup.courseNumber,
-      semester: pendingGroup.semester,
+      semester: sec.term,
       color: pendingGroup.color,
       days: sec.days,
       start: sec.start,
