@@ -1,66 +1,57 @@
-import Image from "next/image";
+"use client";
+
+import { useMemo, useState } from "react";
+import coursesData from "@/data/courses.json";
+import { Course, CourseGroup, Day, DAYS } from "@/lib/types";
+import { getConflictingIds } from "@/lib/time";
+import BuildDraftPanel from "@/components/BuildDraftPanel";
+import SemesterGrids from "@/components/SemesterGrids";
+import CourseList from "@/components/CourseList";
 import styles from "./page.module.css";
 
+const ALL_COURSE_GROUPS = coursesData.courses as unknown as CourseGroup[];
+
 export default function Home() {
+  const [selectedCourses, setSelectedCourses] = useState<Course[]>([]);
+  const [activeDays, setActiveDays] = useState<Set<Day>>(new Set(DAYS));
+
+  const scheduledGroupIds = useMemo(
+    () => new Set(selectedCourses.map((c) => c.courseGroupId)),
+    [selectedCourses]
+  );
+
+  const addCourse = (course: Course) => {
+    setSelectedCourses((prev) =>
+      prev.some((c) => c.id === course.id) ? prev : [...prev, course]
+    );
+  };
+
+  const removeCourse = (id: string) => {
+    setSelectedCourses((prev) => prev.filter((c) => c.id !== id));
+  };
+
+  const toggleDay = (day: Day) => {
+    setActiveDays((prev) => {
+      const next = new Set(prev);
+      if (next.has(day)) next.delete(day);
+      else next.add(day);
+      return next;
+    });
+  };
+
+  const conflictingIds = useMemo(() => getConflictingIds(selectedCourses), [selectedCourses]);
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <main className={styles.main}>
+      <BuildDraftPanel
+        courseGroups={ALL_COURSE_GROUPS}
+        scheduledGroupIds={scheduledGroupIds}
+        activeDays={activeDays}
+        onAdd={addCourse}
+        onToggleDay={toggleDay}
+      />
+      <SemesterGrids courses={selectedCourses} conflictingIds={conflictingIds} />
+      <CourseList courses={selectedCourses} onRemove={removeCourse} />
+    </main>
   );
 }

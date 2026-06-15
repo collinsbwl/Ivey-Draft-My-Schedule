@@ -1,0 +1,96 @@
+.wrapper {
+  overflow-x: auto;
+  border-radius: 8px;
+  border: 1px solid #e2e5ec;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 900px;
+}
+
+.table thead th {
+  background: #eef1f6;
+  color: #2a3550;
+  font-weight: 700;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  padding: 8px 10px;
+  border-bottom: 1px solid #c7ccd6;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.table tbody td {
+  padding: 8px 10px;
+  vertical-align: middle;
+  color: #2a3550;
+  border-bottom: 1px solid #f0f2f6;
+}
+
+.iconCol {
+  width: 28px;
+}
+
+.removeCol {
+  width: 60px;
+  text-align: center !important;
+}
+
+.tag {
+  font-size: 14px;
+}
+
+.noWrap {
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.timeRange {
+  font-weight: 400;
+  color: #555;
+  font-size: 12px;
+}
+
+.runsRow td {
+  font-size: 12px;
+  color: #666;
+  padding: 3px 10px 8px 38px !important;
+  border-bottom: 1px solid #e8ecf2;
+  font-style: italic;
+}
+
+.totalRow td {
+  padding: 10px;
+  border-top: 2px solid #c7ccd6;
+}
+
+.totalCell {
+  font-weight: 700;
+  font-size: 13px;
+  color: #2a3550;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.removeBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #dc2626;
+  font-size: 16px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.removeBtn:hover {
+  background: #fee2e2;
+}

@@ -1,0 +1,73 @@
+.panel {
+  background: #fff;
+  border: 1px solid #e2e5ec;
+  border-radius: 8px;
+  padding: 18px 22px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 16px;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  color: #5b3aa8;
+}
+
+.icon {
+  font-size: 18px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 24px;
+  align-items: flex-start;
+}
+
+.selectRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  flex: 1 1 100%;
+}
+
+.selectRow .field {
+  flex: 1 1 280px;
+  min-width: 240px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #444b5a;
+}
+
+.select {
+  font-size: 12px;
+}
+
+.days {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  padding-top: 4px;
+}
+
+.dayItem {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #2a3550;
+  cursor: pointer;
+}

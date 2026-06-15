@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.row > * {
+  flex: 1 1 480px;
+  min-width: 0;
+}

@@ -1,0 +1,87 @@
+.wrapper {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.title {
+  margin: 0 0 6px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1d3a8a;
+}
+
+.grid {
+  display: grid;
+  border: 1px solid #c7ccd6;
+  border-bottom: none;
+  background: #fff;
+}
+
+.headerCell {
+  grid-row: 1;
+  padding: 6px 4px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: #2a3550;
+  background: #eef1f6;
+  border-bottom: 1px solid #c7ccd6;
+  border-right: 1px solid #dfe3ea;
+}
+
+.timeHeader {
+  grid-column: 1;
+}
+
+.timeLabel {
+  padding: 2px 6px;
+  font-size: 11px;
+  color: #444;
+  text-align: right;
+  border-right: 1px solid #dfe3ea;
+  border-bottom: 1px solid #eef0f4;
+  white-space: nowrap;
+}
+
+.cell {
+  border-right: 1px solid #eef0f4;
+  border-bottom: 1px solid #eef0f4;
+}
+
+.block {
+  margin: 1px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  z-index: 1;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  opacity: 0.75;
+}
+
+.conflict {
+  outline: 2px solid #ef4444;
+  outline-offset: -2px;
+}
+
+.warningIcon {
+  font-size: 10px;
+  line-height: 1;
+}
+
+.blockName {
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.blockTime {
+  font-size: 10px;
+}
