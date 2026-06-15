@@ -84,10 +84,10 @@ export default function TimeGrid({
                 }}
               >
                 {hasConflict && <span className={styles.warningIcon}>⚠️</span>}
+                <span className={styles.blockName}>{course.name}</span>
                 {course.classNbr && (
                   <span className={styles.blockCourseNo}>{course.classNbr}</span>
                 )}
-                <span className={styles.blockName}>{course.name}</span>
                 <span className={styles.blockTime}>
                   {course.start}–{course.end}
                 </span>
