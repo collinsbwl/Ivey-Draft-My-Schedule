@@ -2,7 +2,15 @@
 
 import { useState } from "react";
 import Select, { SingleValue } from "react-select";
-import { CourseGroup, Course, Section, Day, DAYS, DAY_LABELS, DAY_SHORT } from "@/lib/types";
+import {
+  CourseGroup,
+  Course,
+  Section,
+  Day,
+  DAYS,
+  DAY_LABELS,
+  DAY_SHORT,
+} from "@/lib/types";
 import { formatTimeStr } from "@/lib/time";
 import styles from "./BuildDraftPanel.module.css";
 
@@ -34,7 +42,9 @@ export default function BuildDraftPanel({
   const [pendingGroup, setPendingGroup] = useState<CourseGroup | null>(null);
 
   const courseOptions: Option[] = courseGroups
-    .filter((g) => g.sections.some((s) => s.days.some((d: Day) => activeDays.has(d))))
+    .filter((g) =>
+      g.sections.some((s) => s.days.some((d: Day) => activeDays.has(d))),
+    )
     .map((g) => ({ value: g.id, label: g.name }));
 
   const sectionOptions: Option[] = (pendingGroup?.sections ?? []).map((s) => ({
@@ -79,7 +89,7 @@ export default function BuildDraftPanel({
         <span className={styles.icon} aria-hidden>
           📅
         </span>
-        IVEY CLASS DRAFT
+        Collin&apos;s Ivey Draft My Schedule
       </h1>
 
       <div className={styles.controls}>
@@ -92,12 +102,18 @@ export default function BuildDraftPanel({
               instanceId="course-select"
               inputId="course-select"
               options={courseOptions}
-              value={pendingGroup ? { value: pendingGroup.id, label: pendingGroup.name } : null}
+              value={
+                pendingGroup
+                  ? { value: pendingGroup.id, label: pendingGroup.name }
+                  : null
+              }
               onChange={handleCourseChange}
               placeholder="Search a course by name..."
               classNamePrefix="course-select"
               className={styles.select}
-              menuPortalTarget={typeof document !== "undefined" ? document.body : null}
+              menuPortalTarget={
+                typeof document !== "undefined" ? document.body : null
+              }
               menuPosition="fixed"
             />
           </div>
@@ -113,10 +129,14 @@ export default function BuildDraftPanel({
               value={null}
               onChange={handleSectionChange}
               isDisabled={!pendingGroup}
-              placeholder={pendingGroup ? "Pick a section…" : "Select a course first"}
+              placeholder={
+                pendingGroup ? "Pick a section…" : "Select a course first"
+              }
               classNamePrefix="section-select"
               className={styles.select}
-              menuPortalTarget={typeof document !== "undefined" ? document.body : null}
+              menuPortalTarget={
+                typeof document !== "undefined" ? document.body : null
+              }
               menuPosition="fixed"
             />
           </div>
