@@ -41,13 +41,14 @@ export function timeToSlotIndex(time: string): number {
   return (timeToMinutes(time) - START_HOUR * 60) / SLOT_MINUTES;
 }
 
-// Returns a Set of course IDs that conflict with at least one other course.
-export function getConflictingIds(courses: { id: string; days: string[]; start: string; end: string }[]): Set<string> {
+// Returns a Set of course IDs that conflict with at least one other course in the same term.
+export function getConflictingIds(courses: { id: string; days: string[]; start: string; end: string; semester?: string }[]): Set<string> {
   const conflicting = new Set<string>();
   for (let i = 0; i < courses.length; i++) {
     for (let j = i + 1; j < courses.length; j++) {
       const a = courses[i];
       const b = courses[j];
+      if (a.semester !== b.semester) continue;
       const sharesDay = a.days.some((d) => b.days.includes(d));
       if (!sharesDay) continue;
       const aStart = timeToMinutes(a.start);

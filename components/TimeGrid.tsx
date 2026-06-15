@@ -25,7 +25,7 @@ export default function TimeGrid({
         className={styles.grid}
         style={{
           gridTemplateColumns: "80px repeat(5, 1fr)",
-          gridTemplateRows: `auto repeat(${allSlots.length}, 5px)`,
+          gridTemplateRows: `auto repeat(${allSlots.length}, 4px)`,
         }}
       >
         {/* Header row */}

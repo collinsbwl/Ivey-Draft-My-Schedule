@@ -120,10 +120,11 @@
           "section": "1",
           "term": "Winter",
           "days": [
+            "Tue",
             "Thu"
           ],
           "start": "08:00",
-          "end": "11:00",
+          "end": "09:20",
           "instructor": "TBD",
           "location": "2120",
           "classNbr": "4413 (1)"
@@ -133,9 +134,10 @@
           "section": "2",
           "term": "Winter",
           "days": [
-            "Tue"
+            "Tue",
+            "Thu"
           ],
-          "start": "08:00",
+          "start": "09:40",
           "end": "11:00",
           "instructor": "TBD",
           "location": "2120",
@@ -307,7 +309,7 @@
     },
     {
       "id": "hba2-4454",
-      "name": "Private Equity",
+      "name": "Operations Strategy",
       "courseNumber": "4454",
       "color": "#7c3aed",
       "sections": [
@@ -693,7 +695,7 @@
     },
     {
       "id": "hba2-4421",
-      "name": "B2B Marketing and Sales Management",
+      "name": "Business to Business Marketing",
       "courseNumber": "4421",
       "color": "#7c3aed",
       "sections": [
@@ -805,7 +807,7 @@
     },
     {
       "id": "hba2-4464",
-      "name": "Supply Chain Management",
+      "name": "Global Supply Chain Management",
       "courseNumber": "4464",
       "color": "#7c3aed",
       "sections": [
@@ -884,7 +886,7 @@
     },
     {
       "id": "hba2-4482",
-      "name": "Competing to Lead",
+      "name": "Competing to Lead: Strategic Excellence in Business Case Competitions",
       "courseNumber": "4482",
       "color": "#7c3aed",
       "sections": [
@@ -981,7 +983,7 @@
     },
     {
       "id": "hba2-4564",
-      "name": "Design Drive Innovation",
+      "name": "Design Driven Innovation",
       "courseNumber": "4564",
       "color": "#7c3aed",
       "sections": [
@@ -1095,7 +1097,7 @@
     },
     {
       "id": "hba2-4590",
-      "name": "Introduction to Data Science",
+      "name": "Introductory Data Science",
       "courseNumber": "4590",
       "color": "#7c3aed",
       "sections": [
@@ -1210,7 +1212,7 @@
     },
     {
       "id": "hba2-4611",
-      "name": "Hustle and Grit",
+      "name": "Start ups: Hustle & Grit",
       "courseNumber": "4611",
       "color": "#7c3aed",
       "sections": [
@@ -1339,7 +1341,7 @@
     },
     {
       "id": "hba2-4626",
-      "name": "Special Topics CCM",
+      "name": "Special Topics in Cross Cultural Management",
       "courseNumber": "4626",
       "color": "#7c3aed",
       "sections": [
@@ -1424,7 +1426,7 @@
     },
     {
       "id": "hba2-4666",
-      "name": "System Thinking Strategies",
+      "name": "Systems Thinking Strategies",
       "courseNumber": "4666",
       "color": "#7c3aed",
       "sections": [
@@ -1523,7 +1525,7 @@
     },
     {
       "id": "hba2-4677",
-      "name": "Purpose-Driven Leadership",
+      "name": "Purpose Driven Leadership",
       "courseNumber": "4677",
       "color": "#7c3aed",
       "sections": [
@@ -1638,7 +1640,7 @@
     },
     {
       "id": "hba2-4401",
-      "name": "Maker Skills and Sustainability",
+      "name": "Maker Skills for Sustainable Business Innovation",
       "courseNumber": "4401",
       "color": "#7c3aed",
       "sections": [
@@ -1695,7 +1697,7 @@
     },
     {
       "id": "hba2-4443",
-      "name": "Value Investing",
+      "name": "Value Investing and the Search for Value",
       "courseNumber": "4443",
       "color": "#7c3aed",
       "sections": [
@@ -1883,7 +1885,7 @@
     },
     {
       "id": "hba2-4772",
-      "name": "Advanced Strategic Thinking and Decision Making",
+      "name": "Advanced Topics in Strategic Thinking & Decision Making",
       "courseNumber": "4772",
       "color": "#7c3aed",
       "sections": [
@@ -2012,7 +2014,7 @@
     },
     {
       "id": "hba2-4480",
-      "name": "Global Strategy",
+      "name": "Global Strategies",
       "courseNumber": "4480",
       "color": "#7c3aed",
       "sections": [
@@ -2059,16 +2061,30 @@
             "Wed"
           ],
           "start": "14:45",
-          "end": "17:40",
+          "end": "16:05",
           "instructor": "M. Raynor",
           "location": "1330",
           "classNbr": "4467 (1)"
+        },
+        {
+          "id": "hba2-4467-2",
+          "section": "2",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "16:20",
+          "end": "17:40",
+          "instructor": "M. Raynor",
+          "location": "1330",
+          "classNbr": "4467 (2)"
         }
       ]
     },
     {
       "id": "hba2-4472",
-      "name": "Fundamentals of AI for Business",
+      "name": "Fundamental of AI for Business",
       "courseNumber": "4472",
       "color": "#7c3aed",
       "sections": [
@@ -2089,10 +2105,24 @@
     },
     {
       "id": "hba2-4461",
-      "name": "Strategic Market Planning",
+      "name": "Strategic Marketing",
       "courseNumber": "4461",
       "color": "#7c3aed",
       "sections": [
+        {
+          "id": "hba2-4461-1",
+          "section": "1",
+          "term": "Winter",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "start": "14:45",
+          "end": "16:05",
+          "instructor": "K. Kristofferson",
+          "location": "1220",
+          "classNbr": "4461 (1)"
+        },
         {
           "id": "hba2-4461-2",
           "section": "2",
@@ -2101,7 +2131,7 @@
             "Mon",
             "Wed"
           ],
-          "start": "14:45",
+          "start": "16:20",
           "end": "17:40",
           "instructor": "K. Kristofferson",
           "location": "1220",
@@ -2111,7 +2141,7 @@
     },
     {
       "id": "hba2-4517",
-      "name": "End User Modeling",
+      "name": "End User Modelling",
       "courseNumber": "4517",
       "color": "#7c3aed",
       "sections": [
@@ -2198,7 +2228,7 @@
     },
     {
       "id": "hba2-4545",
-      "name": "Sports and Entertainment Analytics",
+      "name": "Sports & Entertainment Analytics",
       "courseNumber": "4545",
       "color": "#7c3aed",
       "sections": [
@@ -2220,7 +2250,7 @@
     },
     {
       "id": "hba2-4628",
-      "name": "FinTech and Disruption of Banking",
+      "name": "Fintech & Disruption of Banking",
       "courseNumber": "4628",
       "color": "#7c3aed",
       "sections": [
@@ -2241,7 +2271,7 @@
     },
     {
       "id": "hba2-4614",
-      "name": "Digital Marketing Analytics",
+      "name": "Social Media and Digital Marketing",
       "courseNumber": "4614",
       "color": "#7c3aed",
       "sections": [
@@ -2262,7 +2292,7 @@
     },
     {
       "id": "hba2-4471",
-      "name": "Navigating Change",
+      "name": "Navigating Change: Lessons from CEOS",
       "courseNumber": "4471",
       "color": "#7c3aed",
       "sections": [
@@ -2283,7 +2313,7 @@
     },
     {
       "id": "hba2-4647",
-      "name": "Technology and Humanity",
+      "name": "Technology & Humanity",
       "courseNumber": "4647",
       "color": "#7c3aed",
       "sections": [
@@ -2325,7 +2355,7 @@
     },
     {
       "id": "hba2-4595",
-      "name": "Fixed Income Markets, Securities and Analysis",
+      "name": "Fixed Income Markets, Securities & Analysis",
       "courseNumber": "4595",
       "color": "#7c3aed",
       "sections": [
@@ -2383,6 +2413,191 @@
           "instructor": "TBD",
           "location": "1320",
           "classNbr": "4665 (1)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4569-client",
+      "name": "IFP - Client",
+      "courseNumber": "4569",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4569-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (1)"
+        },
+        {
+          "id": "hba2-4569-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (2)"
+        },
+        {
+          "id": "hba2-4569-3",
+          "section": "3",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "11:30",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (3)"
+        },
+        {
+          "id": "hba2-4569-4",
+          "section": "4",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "11:30",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (4)"
+        },
+        {
+          "id": "hba2-4569-5",
+          "section": "5",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "15:00",
+          "end": "18:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (5)"
+        },
+        {
+          "id": "hba2-4569-6",
+          "section": "6",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "15:00",
+          "end": "18:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (6)"
+        },
+        {
+          "id": "hba2-4569-7",
+          "section": "7",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "15:00",
+          "end": "18:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (7)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4569-nv",
+      "name": "IFP - New Venture",
+      "courseNumber": "4569",
+      "color": "#7c3aed",
+      "sections": [
+        {
+          "id": "hba2-4569-8",
+          "section": "8",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (8)"
+        },
+        {
+          "id": "hba2-4569-9",
+          "section": "9",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "08:00",
+          "end": "11:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (9)"
+        },
+        {
+          "id": "hba2-4569-10",
+          "section": "10",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "11:30",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (10)"
+        },
+        {
+          "id": "hba2-4569-11",
+          "section": "11",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "11:30",
+          "end": "14:30",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (11)"
+        },
+        {
+          "id": "hba2-4569-12",
+          "section": "12",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "15:00",
+          "end": "18:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (12)"
+        },
+        {
+          "id": "hba2-4569-13",
+          "section": "13",
+          "term": "Fall",
+          "days": [
+            "Fri"
+          ],
+          "start": "15:00",
+          "end": "18:00",
+          "instructor": "TBD",
+          "location": "TBD",
+          "classNbr": "4569 (13)"
         }
       ]
     }
