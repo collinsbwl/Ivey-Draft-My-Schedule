@@ -29,7 +29,7 @@ interface BuildDraftPanelProps {
 
 function sectionLabel(s: Section): string {
   const days = s.days.map((d: Day) => DAY_SHORT[d]).join(" ");
-  return `Section ${s.section} — ${days}, ${formatTimeStr(s.start)}–${formatTimeStr(s.end)} (${s.location ?? "TBA"})`;
+  return `Section ${s.section} — ${days}, ${formatTimeStr(s.start)}–${formatTimeStr(s.end)} (${s.location ?? "TBA"}) - ${s.term}`;
 }
 
 export default function BuildDraftPanel({
