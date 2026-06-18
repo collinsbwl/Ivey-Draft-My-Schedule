@@ -4,7 +4,7 @@
       "id": "hba2-4468",
       "name": "Interpersonal Negotiations",
       "courseNumber": "4468",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4468-1",
@@ -77,7 +77,7 @@
       "id": "hba2-4619",
       "name": "The Performing Leader",
       "courseNumber": "4619",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4619-1",
@@ -311,7 +311,7 @@
       "id": "hba2-4454",
       "name": "Operations Strategy",
       "courseNumber": "4454",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4454-1",
@@ -600,7 +600,7 @@
       "id": "hba2-4662",
       "name": "Case Writing",
       "courseNumber": "4662",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4662-1",
@@ -727,7 +727,7 @@
       "id": "hba2-4450",
       "name": "Business Law",
       "courseNumber": "4450",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4450-1",
@@ -761,7 +761,7 @@
       "id": "hba2-4462",
       "name": "Doing Business in North America",
       "courseNumber": "4462",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4462-1",
@@ -782,7 +782,7 @@
       "id": "hba2-4464",
       "name": "Global Supply Chain Management",
       "courseNumber": "4464",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4464-1",
@@ -804,7 +804,7 @@
       "id": "hba2-4469",
       "name": "Competing with Analytics",
       "courseNumber": "4469",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4469-1",
@@ -861,7 +861,7 @@
       "id": "hba2-4482",
       "name": "Competing to Lead: Strategic Excellence in Business Case Competitions",
       "courseNumber": "4482",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4482-1",
@@ -931,14 +931,13 @@
           "location": "2215",
           "classNbr": "4554 (2)"
         }
-
       ]
     },
     {
       "id": "hba2-4558",
       "name": "New Venture Creation",
       "courseNumber": "4558",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4558-1",
@@ -972,7 +971,7 @@
       "id": "hba2-4564",
       "name": "Design Driven Innovation",
       "courseNumber": "4564",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4564-2",
@@ -1086,7 +1085,7 @@
       "id": "hba2-4590",
       "name": "Introductory Data Science",
       "courseNumber": "4590",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4590-1",
@@ -1122,7 +1121,7 @@
       "id": "hba2-4596",
       "name": "Navigating Power Dynamics",
       "courseNumber": "4596",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4596-1",
@@ -1144,7 +1143,7 @@
       "id": "hba2-4600",
       "name": "Database Management",
       "courseNumber": "4600",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4600-1",
@@ -1201,7 +1200,7 @@
       "id": "hba2-4611",
       "name": "Start ups: Hustle & Grit",
       "courseNumber": "4611",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4611-1",
@@ -1222,7 +1221,7 @@
       "id": "hba2-4613",
       "name": "Fundamentals of Commercial Real Estate",
       "courseNumber": "4613",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4613-1",
@@ -1244,7 +1243,7 @@
       "id": "hba2-4620",
       "name": "Business Impact Assessment",
       "courseNumber": "4620",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4620-1",
@@ -1266,7 +1265,7 @@
       "id": "hba2-4621",
       "name": "Managing in the Creative Economy",
       "courseNumber": "4621",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4621-1",
@@ -1287,7 +1286,7 @@
       "id": "hba2-4622",
       "name": "Corporate Strategy",
       "courseNumber": "4622",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4622-1",
@@ -1308,7 +1307,7 @@
       "id": "hba2-4623",
       "name": "International Collaborative Arrangements",
       "courseNumber": "4623",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4623-1",
@@ -1330,7 +1329,7 @@
       "id": "hba2-4626",
       "name": "Special Topics in Cross Cultural Management",
       "courseNumber": "4626",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4626-1",
@@ -1351,7 +1350,7 @@
       "id": "hba2-4654",
       "name": "Behavioural Economics",
       "courseNumber": "4654",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4654-1",
@@ -1373,7 +1372,7 @@
       "id": "hba2-4658",
       "name": "Competing in Emerging Markets",
       "courseNumber": "4658",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4658-1",
@@ -1394,7 +1393,7 @@
       "id": "hba2-4664",
       "name": "The Art of Social Entrepreneurship",
       "courseNumber": "4664",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4664-1",
@@ -1415,7 +1414,7 @@
       "id": "hba2-4666",
       "name": "Systems Thinking Strategies",
       "courseNumber": "4666",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4666-1",
@@ -1471,7 +1470,7 @@
       "id": "hba2-4668",
       "name": "Doing Business in Africa",
       "courseNumber": "4668",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4668-1",
@@ -1492,7 +1491,7 @@
       "id": "hba2-4675",
       "name": "Programming for Business Applications",
       "courseNumber": "4675",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4675-1",
@@ -1514,7 +1513,7 @@
       "id": "hba2-4677",
       "name": "Purpose Driven Leadership",
       "courseNumber": "4677",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4677-1",
@@ -1535,7 +1534,7 @@
       "id": "hba2-4771",
       "name": "Digital Strategy and Policy",
       "courseNumber": "4771",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4771-1",
@@ -1607,7 +1606,7 @@
       "id": "hba2-4580",
       "name": "Reputation Management",
       "courseNumber": "4580",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4580-1",
@@ -1629,7 +1628,7 @@
       "id": "hba2-4401",
       "name": "Maker Skills for Sustainable Business Innovation",
       "courseNumber": "4401",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4401-1",
@@ -1650,7 +1649,7 @@
       "id": "hba2-4566",
       "name": "Managing High Growth Companies",
       "courseNumber": "4566",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4566-1",
@@ -1722,7 +1721,7 @@
       "id": "hba2-4520",
       "name": "Revenue Management",
       "courseNumber": "4520",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4520-1",
@@ -1852,7 +1851,7 @@
       "id": "hba2-4610",
       "name": "Leading Family Firms",
       "courseNumber": "4610",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4610-1",
@@ -1874,7 +1873,7 @@
       "id": "hba2-4772",
       "name": "Advanced Topics in Strategic Thinking & Decision Making",
       "courseNumber": "4772",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4772-1",
@@ -1895,7 +1894,7 @@
       "id": "hba2-4434",
       "name": "Management of Service",
       "courseNumber": "4434",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4434-1",
@@ -1917,7 +1916,7 @@
       "id": "hba2-4629",
       "name": "Sales Foundations",
       "courseNumber": "4629",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4629-1",
@@ -2003,7 +2002,7 @@
       "id": "hba2-4480",
       "name": "Global Strategies",
       "courseNumber": "4480",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4480-1",
@@ -2073,7 +2072,7 @@
       "id": "hba2-4472",
       "name": "Fundamental of AI for Business",
       "courseNumber": "4472",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4472-1",
@@ -2130,7 +2129,7 @@
       "id": "hba2-4517",
       "name": "End User Modelling",
       "courseNumber": "4517",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4517-1",
@@ -2209,7 +2208,7 @@
       "id": "hba2-4618",
       "name": "Decision Making and Risk Management",
       "courseNumber": "4618",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4618-1",
@@ -2231,7 +2230,7 @@
       "id": "hba2-4545",
       "name": "Sports & Entertainment Analytics",
       "courseNumber": "4545",
-      "color": "#7c3aed",
+      "color": "#ba8e23",
       "sections": [
         {
           "id": "hba2-4545-1",
@@ -2253,7 +2252,7 @@
       "id": "hba2-4628",
       "name": "Fintech & Disruption of Banking",
       "courseNumber": "4628",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4628-1",
@@ -2295,7 +2294,7 @@
       "id": "hba2-4471",
       "name": "Navigating Change: Lessons from CEOS",
       "courseNumber": "4471",
-      "color": "#7c3aed",
+      "color": "#0000FF",
       "sections": [
         {
           "id": "hba2-4471-1",
@@ -2316,7 +2315,7 @@
       "id": "hba2-4647",
       "name": "Technology & Humanity",
       "courseNumber": "4647",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4647-1",
@@ -2337,7 +2336,7 @@
       "id": "hba2-4773",
       "name": "Transformational Leadership",
       "courseNumber": "4773",
-      "color": "#7c3aed",
+      "color": "#de0a26",
       "sections": [
         {
           "id": "hba2-4773-1",
@@ -2379,7 +2378,7 @@
       "id": "hba2-4547",
       "name": "Health Sector Leadership and Innovation",
       "courseNumber": "4547",
-      "color": "#7c3aed",
+      "color": "#660033",
       "sections": [
         {
           "id": "hba2-4547-1",
@@ -2400,7 +2399,7 @@
       "id": "hba2-4665",
       "name": "Digital Product Management",
       "courseNumber": "4665",
-      "color": "#7c3aed",
+      "color": "#FF0000",
       "sections": [
         {
           "id": "hba2-4665-1",
