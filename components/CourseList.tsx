@@ -18,10 +18,17 @@ function courseCredits(course: Course): number {
   return course.name.startsWith("IFP") ? 1.0 : 0.5;
 }
 
+function iveyCredits(course: Course): number {
+  if (course.name.startsWith("IFP")) return 1.0;
+  if (course.name === "MAC" || course.name === "GMM" || course.name.startsWith("C&S")) return 0.5;
+  return 0;
+}
+
 export default function CourseList({ courses, onRemove, conflictingIds }: CourseListProps) {
   if (courses.length === 0) return null;
 
   const totalCredits = courses.reduce((sum, c) => sum + courseCredits(c), 0);
+  const totalIveyCredits = courses.reduce((sum, c) => sum + iveyCredits(c), 0);
 
   return (
     <div>
@@ -81,6 +88,7 @@ export default function CourseList({ courses, onRemove, conflictingIds }: Course
         </table>
       </div>
       <div className={styles.totalRow}>
+        <span className={styles.totalCell}>Ivey Credits: {totalIveyCredits.toFixed(1)}</span>
         <span className={styles.totalCell}>Total Credits: {totalCredits.toFixed(1)}</span>
       </div>
     </div>

@@ -79,7 +79,9 @@
 
 .totalRow {
   padding: 8px 10px;
-  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  gap: 24px;
 }
 
 .totalCell {
