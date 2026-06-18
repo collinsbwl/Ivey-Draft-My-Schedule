@@ -1,3 +1,3 @@
 ## Ivey Draft My Schedule
 
-Course schedular for Ivey classes
+Course scheduler for Ivey classes - Built by Collin S.
