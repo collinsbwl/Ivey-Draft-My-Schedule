@@ -149,7 +149,7 @@
       "id": "hba2-4624",
       "name": "MAC",
       "courseNumber": "4624",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4624-1",
@@ -333,7 +333,7 @@
       "id": "hba2-4505",
       "name": "GMM",
       "courseNumber": "4505",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4505-1",
@@ -634,7 +634,7 @@
       "id": "hba2-4404",
       "name": "C&S Global Business and SDGS",
       "courseNumber": "4404",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4404-1",
@@ -914,7 +914,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "D. Thomas",
+          "instructor": "TBD",
           "location": "1120",
           "classNbr": "4554 (1)"
         },
@@ -1036,7 +1036,7 @@
       "id": "hba2-4588",
       "name": "C&S Sustainable Finance",
       "courseNumber": "4588",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4588-1",
@@ -1165,7 +1165,7 @@
       "id": "hba2-4608",
       "name": "C&S Managing Energy",
       "courseNumber": "4608",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4608-1",
@@ -1298,7 +1298,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "S. Pathak",
           "location": "1120",
           "classNbr": "4622 (1)"
         }
@@ -1766,7 +1766,7 @@
       "id": "hba2-4539",
       "name": "C&S Business Strategy and Sustainability",
       "courseNumber": "4539",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4539-1",
@@ -2037,7 +2037,7 @@
       "id": "hba2-4467",
       "name": "C&S Decarbonizer's Dilemma",
       "courseNumber": "4467",
-      "color": "#7c3aed",
+      "color": "#0B6623",
       "sections": [
         {
           "id": "hba2-4467-1",

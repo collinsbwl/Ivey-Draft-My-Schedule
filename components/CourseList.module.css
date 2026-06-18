@@ -77,16 +77,15 @@
   font-style: italic;
 }
 
-.totalRow td {
-  padding: 10px;
-  border-top: 2px solid #c7ccd6;
+.totalRow {
+  padding: 8px 10px;
+  text-align: right;
 }
 
 .totalCell {
   font-weight: 700;
   font-size: 13px;
   color: #2a3550;
-  text-align: right;
   white-space: nowrap;
 }
 
