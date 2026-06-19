@@ -7,6 +7,7 @@ import {
   Course,
   Section,
   Day,
+  Semester,
   DAYS,
   DAY_LABELS,
   DAY_SHORT,
@@ -41,17 +42,39 @@ export default function BuildDraftPanel({
   onToggleDay,
 }: BuildDraftPanelProps) {
   const [pendingGroup, setPendingGroup] = useState<CourseGroup | null>(null);
+  const [activeSemesters, setActiveSemesters] = useState<Set<Semester>>(
+    new Set<Semester>(["Fall", "Winter"])
+  );
+
+  const toggleSemester = (sem: Semester) => {
+    setActiveSemesters((prev) => {
+      const next = new Set(prev);
+      if (next.has(sem)) {
+        if (next.size > 1) next.delete(sem);
+      } else {
+        next.add(sem);
+      }
+      return next;
+    });
+    setPendingGroup(null);
+  };
 
   const courseOptions: Option[] = courseGroups
     .filter((g) =>
-      g.sections.some((s) => s.days.some((d: Day) => activeDays.has(d))),
+      g.sections.some(
+        (s) =>
+          activeSemesters.has(s.term) &&
+          s.days.some((d: Day) => activeDays.has(d))
+      )
     )
     .map((g) => ({ value: g.id, label: g.name }));
 
-  const sectionOptions: Option[] = (pendingGroup?.sections ?? []).map((s) => ({
-    value: s.id,
-    label: sectionLabel(s),
-  }));
+  const sectionOptions: Option[] = (pendingGroup?.sections ?? [])
+    .filter((s) => activeSemesters.has(s.term))
+    .map((s) => ({
+      value: s.id,
+      label: sectionLabel(s),
+    }));
 
   const handleCourseChange = (opt: SingleValue<Option>) => {
     const group = courseGroups.find((g) => g.id === opt?.value) ?? null;
@@ -154,6 +177,22 @@ export default function BuildDraftPanel({
                   onChange={() => onToggleDay(day)}
                 />
                 {DAY_LABELS[day]}
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <div className={styles.field}>
+          <span className={styles.label}>Semester:</span>
+          <div className={styles.days}>
+            {(["Fall", "Winter"] as Semester[]).map((sem) => (
+              <label key={sem} className={styles.dayItem}>
+                <input
+                  type="checkbox"
+                  checked={activeSemesters.has(sem)}
+                  onChange={() => toggleSemester(sem)}
+                />
+                {sem}
               </label>
             ))}
           </div>
