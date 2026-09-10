@@ -125,7 +125,7 @@
           ],
           "start": "08:00",
           "end": "09:20",
-          "instructor": "TBD",
+          "instructor": "S. Ramani",
           "location": "2120",
           "classNbr": "4413 (1)"
         },
@@ -139,7 +139,7 @@
           ],
           "start": "09:40",
           "end": "11:00",
-          "instructor": "TBD",
+          "instructor": "S. Ramani",
           "location": "2120",
           "classNbr": "4413 (2)"
         }
@@ -259,7 +259,7 @@
           ],
           "start": "16:20",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "A. Sandu",
           "location": "1210",
           "classNbr": "4624 (8)"
         },
@@ -532,7 +532,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "T. Watson",
           "location": "1310",
           "classNbr": "4574 (3)"
         }
@@ -590,7 +590,7 @@
           ],
           "start": "14:45",
           "end": "16:05",
-          "instructor": "TBD",
+          "instructor": "J. Nanne",
           "location": "1130",
           "classNbr": "4497 (1)"
         }
@@ -927,7 +927,7 @@
           ],
           "start": "8:00",
           "end": "11:00",
-          "instructor": "TBD",
+          "instructor": "G. Kocik",
           "location": "2215",
           "classNbr": "4554 (2)"
         }
@@ -1590,7 +1590,7 @@
           ],
           "start": "08:00",
           "end": "09:20",
-          "instructor": "TBD",
+          "instructor": "M. Martin",
           "location": "1330",
           "classNbr": "4580 (1)"
         }
@@ -1598,7 +1598,7 @@
     },
     {
       "id": "hba2-4401",
-      "name": "Maker Skills for Sustainable Business Innovation",
+      "name": "Maker Skills and Sustainability",
       "courseNumber": "4401",
       "color": "#0041C2",
       "sections": [
@@ -1655,7 +1655,7 @@
     },
     {
       "id": "hba2-4443",
-      "name": "Value Investing and the Search for Value",
+      "name": "Value Investing",
       "courseNumber": "4443",
       "color": "#7c3aed",
       "sections": [
@@ -1749,7 +1749,7 @@
           ],
           "start": "11:20",
           "end": "12:40",
-          "instructor": "TBD",
+          "instructor": "S. Rueegger",
           "location": "1330",
           "classNbr": "4539 (1)"
         },
@@ -1763,7 +1763,7 @@
           ],
           "start": "13:10",
           "end": "14:30",
-          "instructor": "TBD",
+          "instructor": "V. Di Iorio",
           "location": "1330",
           "classNbr": "4539 (2)"
         }
@@ -1843,7 +1843,7 @@
     },
     {
       "id": "hba2-4772",
-      "name": "Advanced Topics in Strategic Thinking & Decision Making",
+      "name": "Advanced Strategic Thinking and Decision Making",
       "courseNumber": "4772",
       "color": "#660033",
       "sections": [
@@ -1859,28 +1859,6 @@
           "instructor": "M. Zbaracki",
           "location": "1200",
           "classNbr": "4772 (1)"
-        }
-      ]
-    },
-    {
-      "id": "hba2-4434",
-      "name": "Management of Service",
-      "courseNumber": "4434",
-      "color": "#ba8e23",
-      "sections": [
-        {
-          "id": "hba2-4434-1",
-          "section": "1",
-          "term": "Winter",
-          "days": [
-            "Mon",
-            "Wed"
-          ],
-          "start": "13:10",
-          "end": "14:30",
-          "instructor": "L. Menor",
-          "location": "1220",
-          "classNbr": "4434 (1)"
         }
       ]
     },
@@ -1972,7 +1950,7 @@
     },
     {
       "id": "hba2-4480",
-      "name": "Global Strategies",
+      "name": "Global Strategy",
       "courseNumber": "4480",
       "color": "#660033",
       "sections": [
@@ -2042,7 +2020,7 @@
     },
     {
       "id": "hba2-4472",
-      "name": "Fundamental of AI for Business",
+      "name": "Fundamentals of AI for Business",
       "courseNumber": "4472",
       "color": "#ba8e23",
       "sections": [
@@ -2063,7 +2041,7 @@
     },
     {
       "id": "hba2-4461",
-      "name": "Strategic Marketing",
+      "name": "Strategic Market Planning",
       "courseNumber": "4461",
       "color": "#7c3aed",
       "sections": [
@@ -2200,7 +2178,7 @@
     },
     {
       "id": "hba2-4545",
-      "name": "Sports & Entertainment Analytics",
+      "name": "Sports and Entertainment Analytics",
       "courseNumber": "4545",
       "color": "#ba8e23",
       "sections": [
@@ -2222,7 +2200,7 @@
     },
     {
       "id": "hba2-4628",
-      "name": "Fintech & Disruption of Banking",
+      "name": "FinTech and Disruption of Banking",
       "courseNumber": "4628",
       "color": "#FF0000",
       "sections": [
@@ -2235,7 +2213,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "J. Peloza",
           "location": "1320",
           "classNbr": "4628 (1)"
         }
@@ -2264,7 +2242,7 @@
     },
     {
       "id": "hba2-4471",
-      "name": "Navigating Change: Lessons from CEOS",
+      "name": "Navigating Change",
       "courseNumber": "4471",
       "color": "#0041C2",
       "sections": [
@@ -2277,7 +2255,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "J. Birkinshaw",
+          "instructor": "J. Birkinshaw, M. Nanji",
           "location": "1200",
           "classNbr": "4471 (1)"
         }
@@ -2285,7 +2263,7 @@
     },
     {
       "id": "hba2-4647",
-      "name": "Technology & Humanity",
+      "name": "Technology and Humanity",
       "courseNumber": "4647",
       "color": "#FF0000",
       "sections": [
@@ -2306,7 +2284,7 @@
     },
     {
       "id": "hba2-4773",
-      "name": "Transformational Leadership",
+      "name": "Leading with Character",
       "courseNumber": "4773",
       "color": "#de0a26",
       "sections": [
@@ -2319,7 +2297,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "A. Ruiz Pardo",
           "location": "1320",
           "classNbr": "4773 (1)"
         }
@@ -2340,7 +2318,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "G. Kocik",
           "location": "1330",
           "classNbr": "4595 (1)"
         }
@@ -2382,7 +2360,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "M. Woo",
           "location": "1320",
           "classNbr": "4665 (1)"
         }
