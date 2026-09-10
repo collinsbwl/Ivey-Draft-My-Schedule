@@ -502,12 +502,12 @@
           "section": "1",
           "term": "Fall",
           "days": [
-            "Thu"
+            "Tue"
           ],
-          "start": "14:45",
-          "end": "17:40",
-          "instructor": "J. Tong",
-          "location": "1210",
+          "start": "13:10",
+          "end": "16:05",
+          "instructor": "B. Gafka",
+          "location": "1200",
           "classNbr": "4574 (1)"
         },
         {
@@ -515,12 +515,12 @@
           "section": "2",
           "term": "Fall",
           "days": [
-            "Tue"
+            "Thu"
           ],
-          "start": "13:10",
-          "end": "16:05",
-          "instructor": "B. Gaftka",
-          "location": "1200",
+          "start": "14:45",
+          "end": "17:40",
+          "instructor": "J. Tong",
+          "location": "1210",
           "classNbr": "4574 (2)"
         },
         {
@@ -681,7 +681,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "L. Aarssen",
           "location": "1330",
           "classNbr": "4421 (1)"
         }
@@ -717,7 +717,7 @@
           ],
           "start": "09:40",
           "end": "11:00",
-          "instructor": "TBD",
+          "instructor": "A. Mahmood",
           "location": "2115",
           "classNbr": "4433 (2)"
         }
@@ -851,7 +851,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "I. Gauld",
           "location": "1320",
           "classNbr": "4477 (1)"
         }
@@ -914,7 +914,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "D. Thomas",
           "location": "1120",
           "classNbr": "4554 (1)"
         },
@@ -948,7 +948,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "R. Hunter",
           "location": "1320",
           "classNbr": "4558 (1)"
         },
@@ -961,7 +961,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "R. Hunter",
           "location": "1320",
           "classNbr": "4558 (2)"
         }
@@ -982,7 +982,7 @@
           ],
           "start": "18:00",
           "end": "21:00",
-          "instructor": "TBD",
+          "instructor": "H. Alves de Castro",
           "location": "1330",
           "classNbr": "4564 (2)"
         }
@@ -1045,39 +1045,11 @@
             "Tue",
             "Thu"
           ],
-          "start": "11:20",
-          "end": "12:40",
-          "instructor": "TBD",
-          "location": "2115",
-          "classNbr": "4588 (1)"
-        },
-        {
-          "id": "hba2-4588-2",
-          "section": "2",
-          "term": "Fall",
-          "days": [
-            "Tue",
-            "Thu"
-          ],
-          "start": "13:10",
-          "end": "14:30",
-          "instructor": "TBD",
-          "location": "1120",
-          "classNbr": "4588 (2)"
-        },
-        {
-          "id": "hba2-4588-3",
-          "section": "3",
-          "term": "Fall",
-          "days": [
-            "Tue",
-            "Thu"
-          ],
           "start": "14:45",
           "end": "16:05",
           "instructor": "D. Arjalies",
           "location": "1120",
-          "classNbr": "4588 (3)"
+          "classNbr": "4588 (1)"
         }
       ]
     },
@@ -1154,7 +1126,7 @@
           ],
           "start": "08:00",
           "end": "11:00",
-          "instructor": "L. Osinde",
+          "instructor": "D. Neufeld",
           "location": "2120",
           "classNbr": "4600 (1)"
         }
@@ -1176,7 +1148,7 @@
           ],
           "start": "14:45",
           "end": "16:05",
-          "instructor": "TBD",
+          "instructor": "B. Rivard",
           "location": "1320",
           "classNbr": "4608 (1)"
         },
@@ -1190,7 +1162,7 @@
           ],
           "start": "16:20",
           "end": "17:40",
-          "instructor": "TBD",
+          "instructor": "B. Rivard",
           "location": "1320",
           "classNbr": "4608 (2)"
         }
@@ -1297,7 +1269,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "S. Pathak",
+          "instructor": "M. Hossein-Nejad",
           "location": "1120",
           "classNbr": "4622 (1)"
         }
@@ -1404,7 +1376,7 @@
           ],
           "start": "14:45",
           "end": "17:40",
-          "instructor": "L. Steinfeld",
+          "instructor": "L. Steinfield",
           "location": "1210",
           "classNbr": "4664 (1)"
         }
@@ -1516,8 +1488,8 @@
       "color": "#de0a26",
       "sections": [
         {
-          "id": "hba2-4677-1",
-          "section": "1",
+          "id": "hba2-4677-2",
+          "section": "2",
           "term": "Fall",
           "days": [
             "Tue"
@@ -1526,7 +1498,7 @@
           "end": "21:00",
           "instructor": "O. Branzei",
           "location": "1310",
-          "classNbr": "4677 (1)"
+          "classNbr": "4677 (2)"
         }
       ]
     },
@@ -2598,6 +2570,42 @@
           "instructor": "TBD",
           "location": "TBD",
           "classNbr": "4569 (13)"
+        }
+      ]
+    },
+    {
+      "id": "hba2-4625",
+      "name": "C&S Dev. Sustainable Supply Chains",
+      "courseNumber": "4625",
+      "color": "#0B6623",
+      "sections": [
+        {
+          "id": "hba2-4625-1",
+          "section": "1",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "11:20",
+          "end": "12:40",
+          "instructor": "V. Kumar",
+          "location": "TBD",
+          "classNbr": "4625 (1)"
+        },
+        {
+          "id": "hba2-4625-2",
+          "section": "2",
+          "term": "Fall",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "start": "13:10",
+          "end": "14:30",
+          "instructor": "M. Mejia",
+          "location": "TBD",
+          "classNbr": "4625 (2)"
         }
       ]
     }
