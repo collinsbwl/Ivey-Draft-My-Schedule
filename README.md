@@ -4,7 +4,7 @@ A course scheduling tool for Ivey HBA2 students to plan and visualize their Fall
 
 ### Why
 
-Ivey kept sending out new versions of the course schedule and manually tracking different sections times and conflicts in Excel was tiring. I Bbuilt this tool to visually build out my timetable based on the most recent course lists and spot conflicts instantly instead of cross-checking spreadsheet rows by hand.
+Ivey kept sending out new versions of the course schedule and manually tracking different sections times and conflicts in Excel was tiring. I built this tool to visually build out my timetable based on the most recent course lists and spot conflicts instantly instead of cross-checking spreadsheet rows by hand.
 
 ### Features
 
